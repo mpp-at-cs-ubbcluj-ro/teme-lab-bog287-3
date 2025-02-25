@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, MPP!");
+        System.out.println("Hello, MPP2025!");
     }
 }
